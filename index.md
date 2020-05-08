@@ -1,4 +1,4 @@
-- [Posts](https://fornacis.github.io/kestrel/posts/posts)
+- [Posts](https://fornacis.github.io/kestrel/posts)
 - level 1 item
   - level 2 item
   - level 2 item
